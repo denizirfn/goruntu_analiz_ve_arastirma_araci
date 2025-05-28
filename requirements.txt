@@ -1,0 +1,8 @@
+# Django web çatısı
+Django>=4.2,<5.0
+
+# Google Generative AI Python istemcisi
+google-generative-ai>=0.1.0
+
+# Görüntü işleme için Pillow (PIL fork’u)
+Pillow>=9.0.0
